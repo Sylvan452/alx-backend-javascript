@@ -1,1 +1,1 @@
-alx-backend-javascript ALX specialization journey toward becoming backend developer
+alx-backend-javascript ALX specialization journey toward becoming backend developer..
