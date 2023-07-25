@@ -1,4 +1,4 @@
-/* eslint-disable-now */
+/* eslint-disable */
 export default function createIteratorObject(report) {
   const employee = [];
   // eslint-disable-next-line no-unused-vars
