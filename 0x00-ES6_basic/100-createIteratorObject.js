@@ -1,8 +1,9 @@
 /* eslint-disable-now */
 export default function createIteratorObject(report) {
-  let employee = [];
-  for (let [depts, emplys] of Object.entries(report.allEmployees)) {
-    for (let emp of emplys) {
+  const employee = [];
+  // eslint-disable-next-line no-unused-vars
+  for (const [depts, emplys] of Object.entries(report.allEmployees)) {
+    for (const emp of emplys) {
       employee.push(emp);
     }
   }
